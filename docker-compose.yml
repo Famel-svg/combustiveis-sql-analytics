@@ -1,0 +1,16 @@
+# PostgreSQL local para a carga do projeto. Credenciais de desenvolvimento, sem dado real.
+services:
+  postgres:
+    image: postgres:16
+    container_name: combustiveis-pg
+    environment:
+      POSTGRES_USER: combustiveis
+      POSTGRES_PASSWORD: combustiveis
+      POSTGRES_DB: combustiveis
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:
