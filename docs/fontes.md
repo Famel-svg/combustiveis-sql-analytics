@@ -26,10 +26,8 @@ Os semestres de 2022 a 2026 em `dsas/ca/` são `.zip`, não `.csv`.
 
 Um espelho de terceiros (data.amerigeoss.org) indica Creative Commons Attribution. Essa informação não é fonte oficial e não foi usada como base.
 
-Pendência: ler os "Termos de uso do portal da ANP" e o "Termo de Uso e Aviso de Privacidade" na página oficial e registrar a licença aqui.
+Confirmação: o dono do projeto confirmou a licença de uso em 2026-10-23 e autorizou o prosseguimento. O agente não leu o texto dos termos; a confirmação é do dono, não de uma leitura automatizada. Para citar a licença exata no README, o dono deve copiá-la dos "Termos de uso do portal da ANP".
 
 ## Status
 
-Verificação parcial. URLs confirmadas. Licença pendente.
-
-Pela regra do `PROMPT.md`, a análise não começa enquanto a licença não for confirmada.
+URLs confirmadas. Licença confirmada pelo dono do projeto em 2026-10-23.
